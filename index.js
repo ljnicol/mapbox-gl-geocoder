@@ -217,7 +217,8 @@ Geocoder.prototype = mapboxgl.util.inherit(mapboxgl.Control, {
     this._change();
   },
 
-  _clear: function() {
+  _clear: function(ev) {
+    if (ev) ev.preventDefault();
     this._input = null;
     this._inputEl.value = '';
     this._typeahead.selected = null;
