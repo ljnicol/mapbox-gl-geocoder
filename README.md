@@ -18,7 +18,7 @@ var MapboxGeocoder = require('mapbox-gl-geocoder');
 
 ### Deeper dive
 
-See [API.md](https://github.com/mapbox/mapbox-gl-geocoder/blob/master/API.md) for complete reference.
+See [API.md](https://github.com/ljnicol/mapbox-gl-geocoder/blob/master/API.md) for complete reference.
 
 ### Contributing
 
