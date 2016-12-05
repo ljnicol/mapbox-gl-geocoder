@@ -22,4 +22,4 @@ See [API.md](https://github.com/mapbox/mapbox-gl-geocoder/blob/master/API.md) fo
 
 ### Contributing
 
-See [CONTRIBUTING.md](https://github.com/mapbox/mapbox-gl-geocoder/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/ljnicol/mapbox-gl-geocoder/blob/master/CONTRIBUTING.md).
